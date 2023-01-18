@@ -34,6 +34,6 @@
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DeltaLuan&&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=DeltaLuan&&theme=tokyonight&v=2"/>
 </a>
 </div>
